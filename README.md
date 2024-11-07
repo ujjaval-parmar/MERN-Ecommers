@@ -1,8 +1,8 @@
-#E-commers: Mern Ecommes app made with Reactjs, Tailwind Css, , Redux-Toolkit, Redux-Persist, Nodejs, Express, and Mongoose.
+#E-commers: Mern Ecommes app made with Reactjs, Tailwind Css, , Redux-Toolkit, Redux-Persist, Nodejs, Express, and Mongoose.</br></br>
 
-Admin Account: Just signup and make your account Admin with this account or use this account:
-email: ujjaval@gmail.com
-password: 123456
+Admin Account: Just signup and make your account Admin with this account or use this account:</br></br>
+email: ujjaval@gmail.com</br>
+password: 123456</br>
 
 ![scrollshot-2024-06-30T17-24-29-UTC+5 5--30](https://github.com/ujjaval-parmar/MERN-Ecommers/assets/154329143/791142bc-752c-4a94-92e1-145899c73bb3)
 ![scrollshot-2024-06-30T17-24-53-UTC+5 5--30](https://github.com/ujjaval-parmar/MERN-Ecommers/assets/154329143/6932cd0e-f9fa-4b61-81de-827a74ddf599)
