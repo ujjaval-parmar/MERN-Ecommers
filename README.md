@@ -2,6 +2,8 @@
 
 Live Preview: https://mern-ecommers-frontend.vercel.app/ </br></br>
 
+**Please Note:: Due to Free Hosting on Render, Request will be slow down on Inactivity but evrything is working Good.** <br/> <br/>
+
 Admin Account: Just signup and make your account Admin with this account or use this account:</br></br>
 email: ujjaval@gmail.com</br>
 password: 123456</br>
